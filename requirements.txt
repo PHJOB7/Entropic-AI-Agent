@@ -1,0 +1,15 @@
+ 
+llama-index
+langchain
+transformers
+chromadb
+faiss-cpu
+numpy
+scipy
+sympy
+matplotlib
+torch
+sentence-transformers
+openai
+gradio
+streamlit
