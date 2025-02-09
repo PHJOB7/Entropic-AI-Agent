@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+data/*.csv
+data/*.json
+data/*.pdf
+models/*.bin
